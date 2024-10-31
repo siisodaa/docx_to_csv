@@ -1,14 +1,2 @@
 Flask
-pandas
-sentence-transformers
-transformers
-scikit-learn
-Flask-Cors
-https://download.pytorch.org/whl/cpu/torch-2.2.0%2Bcpu-cp39-cp39-linux_x86_64.whl
-numpy<2.0.0
-fuzzywuzzy
-python-Levenshtein
-mysql-connector-python
-gunicorn
-sentencepiece
-boto3
+python-docx
